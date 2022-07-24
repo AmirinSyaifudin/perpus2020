@@ -15,11 +15,11 @@
                         <tr>
                             <th>ID</th>
                             <th>JUDUL BUKU</th>
-                            <th>DESKRIPSI BUKU</th>
+                            <th class="text-center">DESKRIPSI BUKU</th>
                             <th>JUMLAH BUKU</th>
                             <th>PENULIS BUKU</th>
                             <th>COVER BUKU</th>
-                            <th>ACTION</th>
+                            <th width="150" class="text-center">ACTION</th>
                         </tr>
                     </thead>
                      {{--  <tbody>
